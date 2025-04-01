@@ -28,4 +28,5 @@ We can conclude the fastest batch size is 128 with a total run time of 34.7s
 The maximum speed over of GPU compared to CPU is 8 minutes and 36.3 seconds. 
 
 GPU Utilisation graph
-![GPU Utilisation](images/cpufrozen.PNG)
+![GPU Utilisation](images/nvtop.PNG)
+Utilising close to 100% of the GPU.
