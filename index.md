@@ -19,3 +19,8 @@ bs = 128
 
 bs = 256
 ![Batch size 256](images/bs256.PNG)
+
+CPU
+![CPU](images/cpufrozen.PNG)
+
+We can conclude the fastest batch size is 128 with a total run time of 
