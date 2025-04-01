@@ -1,5 +1,21 @@
 Hello and welcome to this blog I have created for question 2 of ELEC4630 Assignment 2.
 
-![Image of fast.ai logo](images/meanmugging.jpg)
+![Image of a funny dog](images/meanmugging.jpg)
 
 ## ELEC4630 Assignment 2
+Q3. Batch sizes and their run time
+
+bs = 16
+![Batch size 16](images/bs16.PNG)
+
+bs = 32
+![Batch size 32](images/bs32.PNG)
+
+bs = 64
+![Batch size 64](images/bs64.PNG)
+
+bs = 128
+![Batch size 128](images/bs128.PNG)
+
+bs = 256
+![Batch size 256](images/bs256.PNG)
