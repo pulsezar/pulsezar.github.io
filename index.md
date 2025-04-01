@@ -1,32 +1,46 @@
-Hello and welcome to this blog I have created for question 2 of ELEC4630 Assignment 2.
+# Hello and welcome to this blog I have created for question 2 of ELEC4630 Assignment 2.
 
-![Image of a funny dog](images/meanmugging.jpg)
+<img src="images/meanmugging.jpg" width=50% height=50%>
 
-## ELEC4630 Assignment 2
-Q3. Batch sizes and their run time
+## Q3. Batch sizes and their run time
 
-bs = 16
-![Batch size 16](images/bs16.PNG)
+### bs = 16
+<kbd>
+  <img src="images/bs16.PNG">
+</kbd>
 
-bs = 32
-![Batch size 32](images/bs32.PNG)
+### bs = 32
+<kbd>
+  <img src="images/bs32.PNG">
+</kbd>
 
-bs = 64
-![Batch size 64](images/bs64.PNG)
+### bs = 64
+<kbd>
+  <img src="images/bs64.PNG">
+</kbd>
 
-bs = 128
-![Batch size 128](images/bs128.PNG)
+### bs = 128
+<kbd>
+  <img src="images/bs128.PNG">
+</kbd>
 
-bs = 256
-![Batch size 256](images/bs256.PNG)
+### bs = 256
+<kbd>
+  <img src="images/bs256.PNG">
+</kbd>
 
-CPU
-![CPU](images/cpufrozen.PNG)
+### CPU
+<kbd>
+  <img src="images/cpufrozen.PNG">
+</kbd>
 
-We can conclude the fastest batch size is 128 with a total run time of 34.7s
+**We can conclude the fastest batch size is 128 with a total run time of 34.7s** 
 
 The maximum speed over of GPU compared to CPU is 8 minutes and 36.3 seconds. 
 
-GPU Utilisation graph
-![GPU Utilisation](images/nvtop.PNG)
+## GPU Utilisation graph
+<kbd>
+  <img src="images/nvtop.PNG">
+</kbd>
+
 Utilising close to 100% of the GPU.
