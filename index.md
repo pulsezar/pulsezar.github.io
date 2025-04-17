@@ -1,3 +1,3 @@
-Jono's blog!~
+Jono's blog!
 
 Welcome!
