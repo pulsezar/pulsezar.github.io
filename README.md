@@ -1,3 +1,3 @@
 # Jono's blog
 
-Test message
+This is for ELEC4630 Assignment 2. Please do not plagirise!
