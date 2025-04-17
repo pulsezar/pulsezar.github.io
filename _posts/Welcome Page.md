@@ -1,4 +1,4 @@
 #Welcome!
 
-![Image description](images/meanmugging.jpg)
+![Angry dog](images/meanmugging.jpg)
 
