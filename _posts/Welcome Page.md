@@ -1,4 +1,4 @@
 # Welcome!
 
-<img src="image/meanmugging.jpg" class="img-responsive" alt=""> </div>
+<img src="../images/meanmugging.jpg" class="img-responsive" alt=""> </div>
 
