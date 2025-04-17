@@ -1,4 +1,4 @@
 # Welcome!
 
-![Angry dog](images/meanmugging.jpg)
+<img src="image/meanmugging.jpg" class="img-responsive" alt=""> </div>
 
